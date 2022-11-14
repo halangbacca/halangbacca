@@ -2,8 +2,8 @@
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
 - 🌱 I’m currently learning  HTML, CSS and JavaScript.
-- ⚡ Fun fact: I'm a biomedical scientist.
 - 📫 Contact: halanbacca@outlook.com.
+- ⚡ Fun fact: I'm a biomedical scientist.
 - 😄 Pronouns: he/him.
 
 <div align="center">
