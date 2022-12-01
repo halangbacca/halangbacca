@@ -1,10 +1,7 @@
 ### Hi, I'm Halan. Welcome to my profile!👋
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
-- 🌱 I’m currently learning  HTML, CSS and JavaScript.
-- 📫 Contact: halanbacca@outlook.com.
-- ⚡ Fun fact: I'm a biomedical scientist.
-- 😄 Pronouns: he/him.
+- 🌱 I’m currently learning  HTML, CSS, JavaScript, Angular and Bootstrap.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
