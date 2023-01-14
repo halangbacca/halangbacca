@@ -1,7 +1,7 @@
 ### Hi, I'm Halan. Welcome to my profile!👋
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
-- 🌱 I’m currently learning  HTML, CSS, JavaScript, Angular and Bootstrap.
+- 🌱 I’m currently learning  HTML5, CSS3, JavaScript, Angular and Bootstrap.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
