@@ -1,4 +1,4 @@
-### Hello, I'm Halan. Welcome to my profile!👋
+### Hello, I'm Halan. Welcome to my profile! 👋
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
 - 🌱 I'm learning  HTML, CSS, JS, TS, Angular, Bootstrap, Java, SQL and Spring.
