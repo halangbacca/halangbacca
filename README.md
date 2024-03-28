@@ -1,7 +1,7 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
-- 🌱 I'm learning  HTML, CSS, JS, TS, Angular, React, Java, Oracle and Spring.
+- 🌱 I'm learning  HTML, CSS, JS, TS, Angular, React, Java, Python, Oracle and Spring.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
@@ -32,5 +32,3 @@
 <div> 
   <a href="https://www.linkedin.com/in/halanbacca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  ![Snake animation](https://github.com/halangbacca/halangbacca/blob/output/github-contribution-grid-snake.svg)
