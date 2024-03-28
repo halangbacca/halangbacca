@@ -1,12 +1,12 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
 - 🔭 I'm currently in training to become a Full Stack Developer!
-- 🌱 I'm learning  HTML, CSS, JS, TS, Angular, Bootstrap, Java, Oracle PL/SQL and Spring.
+- 🌱 I'm learning  HTML, CSS, JS, TS, Angular, React, Java, Oracle and Spring.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=halangbacca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halangbacca&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=halangbacca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halangbacca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
