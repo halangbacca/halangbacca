@@ -1,7 +1,7 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
 - 🔭 I'm a Full Stack Developer and a Biomedical Scientist!
-- 🌱 I work with  HTML, CSS, JS, TS, Angular, React, Vue, Java, Spring, PHP, Laravel, Python, Django, Oracle, MySQL, Postgres, Docker, Linux and Microsoft Power BI®.
+- 🌱 I work with  HTML, CSS, JS, TS, Angular, React, Vue, Java, Spring, Flutter, PHP, Laravel, Python, Django, Oracle, MySQL, Postgres, Docker, Linux and Microsoft Power BI®.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
@@ -22,6 +22,7 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -30,6 +31,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="right" alt="Halan" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110552166?v=4">
 </div>
