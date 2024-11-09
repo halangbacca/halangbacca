@@ -1,7 +1,7 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
 - 🔭 I'm a Full Stack Developer and a Biomedical Scientist currently doing a Master’s degree in Medical Informatics!
-- 🌱 I work with  HTML, CSS, JS, TS, Angular, React, Vue, Java, Spring, Flutter, PHP, Laravel, Python, Django, Oracle, MySQL, Postgres, Docker, Linux and Microsoft Power BI®.
+- 🌱 I've already developed solutions using HTML, CSS, JS, TS, Angular, React, Vue, Java, Spring, Flutter, PHP, Laravel, Python, Django, Oracle, MySQL, Postgres, Docker, Linux and Microsoft Power BI.
 
 <div align="center">
   <a href="https://github.com/halangbacca">
