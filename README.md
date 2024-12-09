@@ -1,6 +1,6 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
-- :computer: I'm a Full Stack Developer and a Biomedical Scientist currently doing a Master’s degree in Medical Informatics!
+- :computer: I'm a Full Stack Developer and a Biomedical Scientist currently doing a Master’s degree in Health Informatics!
 - :telescope: I've already developed solutions using HTML, CSS, JS, TS, Angular, React, Vue, Java, Spring, Flutter, PHP, Laravel, Python, Django, Oracle, MySQL, Postgres, Docker, Linux and Power BI.
 - :heart: I love open source projects!
 
