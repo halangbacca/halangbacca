@@ -1,7 +1,7 @@
 ### Hello, I'm Halan. Welcome to my profile! 👋
 
 - :computer: I'm a Full Stack Developer and a Biomedical Scientist currently doing a Master’s degree in Health Informatics!
-- :telescope: I've already developed solutions using HTML, CSS, JS, TS, Angular, Vue, Java, Spring, PHP, Laravel, Oracle, MySQL, Postgres, Docker and Linux.
+- :telescope: I've already developed solutions using HTML5, CSS3, JS, TS, Angular, Vue, React, Java, Spring, PHP, Laravel, Oracle, MySQL, PostgreSQL, Docker and Linux.
 - :heart: I love open source projects!
 
 <div align="center">
