@@ -1,0 +1,80 @@
+username: halangbacca
+
+profile:
+  name: "Halan Germano Bacca"
+  tagline: "Full Stack Developer, Biomedical Scientist & Master’s degree in Health Informatics"
+  company: "SENAI Digital Solutions"
+  location: "Itajaí, SC"
+  bio: |
+    Full stack developer working on healthcare systems, building and maintaining applications with PHP, Java, Vue.js and Angular.
+    Experienced in backend architecture, data integrity, and scalable web solutions.
+    Passionate about solving real-world problems through technology.
+  philosophy: '"Consistency and reliability over complexity."'
+
+social:
+  email: "halanbacca@outlook.com"
+  linkedin: "halanbacca"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "JS"
+      - "TS"
+      - "Vue.js"
+      - "Angular"
+      - "React"
+      - "Bootstrap"
+      - "HTML"
+      - "CSS"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "PHP"
+      - "Laravel"
+      - "Java"
+      - "Spring"
+      - "Python"
+      - "PostgreSQL"
+      - "MySQL"
+      - "Oracle"
+      - "Redis"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "Grafana"
+      - "RabbitMQ"
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+    - "CMake"
+    - "C"
+    - "C++"
+    - "Python"
+    - "Powershell"
+    - "Blade"
+  max_display: 8
