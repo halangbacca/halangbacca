@@ -264,14 +264,14 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="394.7" y1="176.8" x2="380.1" y2="187.3" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">JavaScript</text>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">JavaScript</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">JS</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">JS</text>
     <circle cx="351.1" cy="176.9" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="351.1" y1="176.9" x2="333.8" y2="182.0" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="333.8" y="185.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">TypeScript</text>
-    <text x="333.8" y="185.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">TypeScript</text>
+    <text x="333.8" y="185.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">TS</text>
+    <text x="333.8" y="185.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">TS</text>
     <circle cx="304.9" cy="171.4" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
